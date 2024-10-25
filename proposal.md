@@ -7,10 +7,15 @@ PenguinFocus encourages users to build healthy work habits while making the proc
 The core functionality of PenguinFocus revolves around setting timers for focused work or study sessions, tracking session data, and offering visual feedback in the form of graphs and charts. The app features break reminders and logs all focus sessions in an SQLite database. Additionally, it may include a points system to motivate users to stay consistent with their productivity goals. Users can interact with the app via a web interface built with Flask, making the app accessible from any browser.
 ## Key Features:
 1.Customizable Timers: Users can set timers for specific durations (e.g., Pomodoro or custom intervals).
+
 2.Focus Session Tracking: Record the number of sessions completed and the total time spent focusing.
+
 3.Break Reminders: Alert users when it's time to take breaks between sessions.
+
 4.Progress Visualization: Use charts to show daily, weekly, or monthly focus data.
+
 5.Rewards System (Optional): Implement a basic rewards system where users can earn points or badges for completing focus sessions.
+
 ## Technologies
 Technologies
 Python: Core logic and functionality for timers and data management.
